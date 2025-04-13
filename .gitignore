@@ -28,3 +28,5 @@ Thumbs.db
 
 /backend/composer.lock
 /frontend/package-lock.json
+
+.idea/
